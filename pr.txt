@@ -1,6 +1,6 @@
 A CLASS CAN HAVE MULTIPLE IIBs which are executed in the order the appier vithin the class body 
 
-it can access both object(i)variable and static variable
+it can access both object(i)variable and static 
 
 a syntex of iib is simple a pair of carli bresses{ } in side a class 
 
