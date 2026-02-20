@@ -1,0 +1,13 @@
+run:
+Thread[child Thread-2,5,main]
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+BUILD SUCCESSFUL (total time: 20 seconds)
